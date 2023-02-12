@@ -22,8 +22,9 @@ public class PrintCard {
         {
             System.out.println(c.getS() + " "+c.getV());
         }
-        
+        //l,l
     }
-    
+    //new change oghswj
 }
 // MY NAME IS VANI KHANNA
+// hello all I am a cute and small branch
